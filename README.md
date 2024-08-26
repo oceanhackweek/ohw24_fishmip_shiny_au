@@ -15,6 +15,7 @@ Connor Flynn
 ## Goals
 
 ## Datasets
+Working directory: `/scratch/nf33/la6889/fishmip`
 
 ## Workflow/Roadmap
 
